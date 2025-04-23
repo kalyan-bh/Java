@@ -80,8 +80,19 @@ public class ArrayProblems {
         //outputQ1();
         //arrMethods();
        //arrSearch();
+
+        }
     }
 
 
+/*
+        int a[]; int []b; int[] c;
+        a = new int[5];
+        int a[] = {1,34,56,31};//Cannot be done after declaration is over.
+        int []b;
+        int[] c;
+        a = new int[5]; //Method 1 of defining array
+        a = new int[] {1,34,56,31}; //Method 2 of defining array
+        a = {1,34,56,31};//Not permissible. Allowed only at declaration.
 
-}
+        */
