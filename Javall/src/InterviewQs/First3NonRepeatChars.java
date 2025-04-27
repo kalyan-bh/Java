@@ -30,6 +30,7 @@ public class First3NonRepeatChars {
     }
 
     static void usingStreamAPI(){
+        String str="practice more";
 
     }
 
